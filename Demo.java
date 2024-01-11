@@ -9,10 +9,10 @@ public class Demo
         Scanner keyboard = new Scanner(System.in);
         ArrayList<Order> orders = new ArrayList<Order>();
 
-        //Do-while loop that iterates as long as the user wishes to enter more intformation.
+        //Do-while loop that iterates as long as the user wishes to enter more information.
         do
         {
-            //Gathering informaiton from the user.
+            //Gathering information from the user.
             System.out.println("\nType of wood:");
             System.out.println("\t1. Cherry\n\t2. Oak\n\t3. Pine");
             System.out.print("Select the Type of wood: ");
