@@ -137,7 +137,7 @@ public class Desk
 
     /**
       toString method. 
-      @retuen a String representing the class's attributes. 
+      @return a String representing the class's attributes. 
      */
     public String toString()
     {
